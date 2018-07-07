@@ -91,3 +91,5 @@ At [TwentyBN](https://www.twentybn.com), with the help of our proprietary data p
 [6] Carreira, Joao, and Andrew Zisserman. "Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset." arXiv preprint arXiv:1705.07750 (2017).
 
 [7] https://github.com/jacobgil/pytorch-grad-cam
+
+{% include disqus.html %}
