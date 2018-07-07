@@ -1,0 +1,12 @@
+Evaluation file used = /home/rgoyal/GestureNetPytorch/data/smth/arXiv/40/test_trimmed_20170520_groups.json
+Sample index = 1332
+True label --> 25 (Putting [something])
+
+##Top-5 predicted labels##
+25: Putting [something] --> 0.84
+2: Dropping [something] --> 0.10
+3: Folding [something] --> 0.02
+1: Closing [something] --> 0.01
+39: Unfolding [something] --> 0.00
+
+Predicted index chosen = 25 (Putting [something])

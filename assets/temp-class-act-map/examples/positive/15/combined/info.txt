@@ -1,0 +1,12 @@
+Evaluation file used = /home/rgoyal/GestureNetPytorch/data/smth/arXiv/40/test_trimmed_20170520_groups.json
+Sample index = 15
+True label --> 1 (Closing [something])
+
+##Top-5 predicted labels##
+1: Closing [something] --> 0.96
+14: Opening [something] --> 0.02
+25: Putting [something] --> 0.01
+7: Moving [something] away from the camera --> 0.00
+8: Moving [something] closer to [something] --> 0.00
+
+Predicted index chosen = 1 (Closing [something])
