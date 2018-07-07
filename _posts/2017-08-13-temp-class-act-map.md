@@ -13,13 +13,9 @@ artifacts in the data and point towards a better architecture.
 of the concepts [1]. The dataset dubbed as **"Something-Something"** consists of ~100,000 videos across 174 categories containing concepts such as dropping, picking, pushing etc.
 
 ### Few Examples from the dataset
-
-
-|![alt text]({{ site.url }}/assets/temp-class-act-map/picking_shoe_up.gif "Picking [something] up")|![alt text]({{ site.url }}/assets/temp-class-act-map/pretending_to_put_something_onto_something.gif "Pretending to put [something] onto [something]")|![alt text]({{ site.url }}/assets/temp-class-act-map/pushing_something_so_that_it_falls_off_the_table.gif "Pushing [something] so that it falls off the table")|![alt text]({{ site.url }}/assets/temp-class-act-map/putting_something_into_something.gif "Putting [something] into [something]")|
+|![alt text]({{site.url}}/assets/temp-class-act-map/picking_shoe_up.gif "Picking [something] up")|![alt text]({{site.url}}/assets/temp-class-act-map/pretending_to_put_something_onto_something.gif "Pretending to put [something] onto [something]")|![alt text]({{site.url}}/assets/temp-class-act-map/pushing_something_so_that_it_falls_off_the_table.gif "Pushing [something] so that it falls off the table")|![alt text]({{site.url}}/assets/temp-class-act-map/putting_something_into_something.gif "Putting [something] into [something]")|
 |:---:|:---:|:---:|:---:|
-|Picking [something] up|Pretending to put [something]|Pushing [something] so that|Putting [something] into|
-|:---:|:---:|:---:|:---:|
-|| onto [something]|it falls off the table|[something]|
+|Picking [something] up|Pretending to put [something]<br>onto [something]|Pushing [something] so that <br>it falls off the table|Putting [something] into<br>[something]|
 
 
 ## Visualization Technique used: Grad-CAM
@@ -47,32 +43,32 @@ The examples below shows the original video alongwith a heatmap overlayed versio
 
 |&nbsp;&nbsp;&nbsp;&nbsp;# &nbsp;&nbsp;&nbsp;&nbsp;|Original and heatmap'ed GIF|&nbsp;&nbsp;&nbsp;&nbsp;Label|
 |:---:|:---:|:---|
-|1|![alt text]({{ site.url }}/assets/temp-class-act-map/examples/positive/1332/combined/mygif.gif)|**True**<br> Putting [something]<br><br> **Predictions**<br>1. Putting [something] :-- 0.84<br>2. Dropping [something] :-- 0.10|
-|2|![alt text]({{ site.url }}/assets/temp-class-act-map/examples/positive/232/combined/mygif.gif)|**True**<br> Tearing [something]<br><br> **Predictions**<br>1. Tearing [something] :-- 0.99<br>2. Stacking [number of] [something] :-- 0.00|
-|3|![alt text]({{ site.url }}/assets/temp-class-act-map/examples/positive/1132/combined/mygif.gif)|**True**<br> Uncovering [something]<br><br> **Predictions**<br>1. Uncovering [something] :-- 0.99<br>2. Opening [something] :-- 0.00|
-|4|![alt text]({{ site.url }}/assets/temp-class-act-map/examples/positive/15/combined/mygif.gif)|**True**<br> Closing [something]<br><br> **Predictions**<br>1. Closing [something] :-- 0.96<br>2. Opening [something] :-- 0.02|
-|5|![alt text]({{ site.url }}/assets/temp-class-act-map/examples/positive/132/combined/mygif.gif)|**True**<br> Pushing [something] so that it slightly moves<br><br> **Predictions**<br>1. Pushing [something] so that it slightly moves :-- 0.43<br>2. Pretending to take [something] from [somewhere] :-- 0.20|
-|6|![alt text]({{ site.url }}/assets/temp-class-act-map/examples/positive/932/combined/mygif.gif)|**True**<br> Approaching [something] with your camera<br><br> **Predictions**<br>1. Approaching [something] with your camera :-- 0.26<br>2. Dropping [something] :-- 0.15|
-|7|![alt text]({{ site.url }}/assets/temp-class-act-map/examples/positive/1832/combined/mygif.gif)|**True**<br> Picking [something] up<br><br> **Predictions**<br>1. Picking [something] up :-- 0.99<br>2. Putting [something] :-- 0.00|
+|1|![alt text]({{site.url}}/assets/temp-class-act-map/examples/positive/1332/combined/mygif.gif)|**True**<br> Putting [something]<br><br> **Predictions**<br>1. Putting [something] :-- 0.84<br>2. Dropping [something] :-- 0.10|
+|2|![alt text]({{site.url}}/assets/temp-class-act-map/examples/positive/232/combined/mygif.gif)|**True**<br> Tearing [something]<br><br> **Predictions**<br>1. Tearing [something] :-- 0.99<br>2. Stacking [number of] [something] :-- 0.00|
+|3|![alt text]({{site.url}}/assets/temp-class-act-map/examples/positive/1132/combined/mygif.gif)|**True**<br> Uncovering [something]<br><br> **Predictions**<br>1. Uncovering [something] :-- 0.99<br>2. Opening [something] :-- 0.00|
+|4|![alt text]({{site.url}}/assets/temp-class-act-map/examples/positive/15/combined/mygif.gif)|**True**<br> Closing [something]<br><br> **Predictions**<br>1. Closing [something] :-- 0.96<br>2. Opening [something] :-- 0.02|
+|5|![alt text]({{site.url}}/assets/temp-class-act-map/examples/positive/132/combined/mygif.gif)|**True**<br> Pushing [something] so that it slightly moves<br><br> **Predictions**<br>1. Pushing [something] so that it slightly moves :-- 0.43<br>2. Pretending to take [something] from [somewhere] :-- 0.20|
+|6|![alt text]({{site.url}}/assets/temp-class-act-map/examples/positive/932/combined/mygif.gif)|**True**<br> Approaching [something] with your camera<br><br> **Predictions**<br>1. Approaching [something] with your camera :-- 0.26<br>2. Dropping [something] :-- 0.15|
+|7|![alt text]({{site.url}}/assets/temp-class-act-map/examples/positive/1832/combined/mygif.gif)|**True**<br> Picking [something] up<br><br> **Predictions**<br>1. Picking [something] up :-- 0.99<br>2. Putting [something] :-- 0.00|
 
 
 #### Few medium ones
 
 |&nbsp;&nbsp;&nbsp;&nbsp;# &nbsp;&nbsp;&nbsp;&nbsp;|Original and heatmap'ed GIF|&nbsp;&nbsp;&nbsp;&nbsp;Label|
 |:---:|:---:|:---|
-|1|![alt text]({{ site.url }}/assets/temp-class-act-map/examples/medium/832/combined/mygif.gif)|**True**<br> Picking [something] up<br><br> **Predictions**<br>1. Turning the camera downwards while filming [something] :-- 0.67<br>2. Picking [something] up :-- 0.10|
-|2|![alt text]({{ site.url }}/assets/temp-class-act-map/examples/medium/1932/combined/mygif.gif)|**True**<br> Holding [something]<br><br> **Predictions**<br>1. Turning the camera left while filming [something] :-- 0.21<br>2. Turning the camera right while filming [something] :-- 0.21|
-|3|![alt text]({{ site.url }}/assets/temp-class-act-map/examples/medium/2132/combined/mygif.gif)|**True**<br> Throwing [something] against [something]<br><br> **Predictions**<br>1. Dropping [something] :-- 0.97<br>2. Throwing [something] against [something] :-- 0.01|
-|4|![alt text]({{ site.url }}/assets/temp-class-act-map/examples/medium/1432/combined/mygif.gif)|**True**<br> Picking [something] up<br><br> **Predictions**<br>1. Pushing [something] with [something] :-- 0.34<br>2. Picking [something] up :-- 0.25|
+|1|![alt text]({{site.url}}/assets/temp-class-act-map/examples/medium/832/combined/mygif.gif)|**True**<br> Picking [something] up<br><br> **Predictions**<br>1. Turning the camera downwards while filming [something] :-- 0.67<br>2. Picking [something] up :-- 0.10|
+|2|![alt text]({{site.url}}/assets/temp-class-act-map/examples/medium/1932/combined/mygif.gif)|**True**<br> Holding [something]<br><br> **Predictions**<br>1. Turning the camera left while filming [something] :-- 0.21<br>2. Turning the camera right while filming [something] :-- 0.21|
+|3|![alt text]({{site.url}}/assets/temp-class-act-map/examples/medium/2132/combined/mygif.gif)|**True**<br> Throwing [something] against [something]<br><br> **Predictions**<br>1. Dropping [something] :-- 0.97<br>2. Throwing [something] against [something] :-- 0.01|
+|4|![alt text]({{site.url}}/assets/temp-class-act-map/examples/medium/1432/combined/mygif.gif)|**True**<br> Picking [something] up<br><br> **Predictions**<br>1. Pushing [something] with [something] :-- 0.34<br>2. Picking [something] up :-- 0.25|
 
 
 #### Few negative ones
 
 |&nbsp;&nbsp;&nbsp;&nbsp;# &nbsp;&nbsp;&nbsp;&nbsp;|Original and heatmap'ed GIF|&nbsp;&nbsp;&nbsp;&nbsp;Label|
 |:---:|:---:|:---|
-|1|![alt text]({{ site.url }}/assets/temp-class-act-map/examples/negative/632/combined/mygif.gif)|**True**<br> Holding [something]<br><br> **Predictions**<br>1. Turning [something] upside down :-- 0.67<br>2. Turning the camera left while filming [something] :-- 0.07|
-|2|![alt text]({{ site.url }}/assets/temp-class-act-map/examples/negative/1732/combined/mygif.gif)|**True**<br> Pushing [something] so that it slightly moves<br><br> **Predictions**<br>1. Dropping [something] :-- 0.50<br>2. Picking [something] up :-- 0.11|
-|3|![alt text]({{ site.url }}/assets/temp-class-act-map/examples/negative/1632/combined/mygif.gif)|**True**<br> Picking [something] up<br><br> **Predictions**<br>1. Pushing [something] with [something] :-- 0.19<br>2. Picking [something] up :-- 0.15|
+|1|![alt text]({{site.url}}/assets/temp-class-act-map/examples/negative/632/combined/mygif.gif)|**True**<br> Holding [something]<br><br> **Predictions**<br>1. Turning [something] upside down :-- 0.67<br>2. Turning the camera left while filming [something] :-- 0.07|
+|2|![alt text]({{site.url}}/assets/temp-class-act-map/examples/negative/1732/combined/mygif.gif)|**True**<br> Pushing [something] so that it slightly moves<br><br> **Predictions**<br>1. Dropping [something] :-- 0.50<br>2. Picking [something] up :-- 0.11|
+|3|![alt text]({{site.url}}/assets/temp-class-act-map/examples/negative/1632/combined/mygif.gif)|**True**<br> Picking [something] up<br><br> **Predictions**<br>1. Pushing [something] with [something] :-- 0.19<br>2. Picking [something] up :-- 0.15|
 
 
 ## Discussion
