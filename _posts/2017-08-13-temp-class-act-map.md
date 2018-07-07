@@ -13,10 +13,10 @@ artifacts in the data and point towards a better architecture.
 of the concepts [1]. The dataset dubbed as **"Something-Something"** consists of ~100,000 videos across 174 categories containing concepts such as dropping, picking, pushing etc.
 
 ### Few Examples from the dataset
+
 |![alt text]({{site.url}}/assets/temp-class-act-map/picking_shoe_up.gif "Picking [something] up")|![alt text]({{site.url}}/assets/temp-class-act-map/pretending_to_put_something_onto_something.gif "Pretending to put [something] onto [something]")|![alt text]({{site.url}}/assets/temp-class-act-map/pushing_something_so_that_it_falls_off_the_table.gif "Pushing [something] so that it falls off the table")|![alt text]({{site.url}}/assets/temp-class-act-map/putting_something_into_something.gif "Putting [something] into [something]")|
 |:---:|:---:|:---:|:---:|
 |Picking [something] up|Pretending to put [something]<br>onto [something]|Pushing [something] so that <br>it falls off the table|Putting [something] into<br>[something]|
-
 
 ## Visualization Technique used: Grad-CAM
 Grad-CAM or _Gradient-weighted Class Activation Mapping_, proposed by [4], allows us to obtain localization map for any target class. It involves,
