@@ -1,6 +1,7 @@
 ---
 layout: post
 <!-- date: 2017-8-10 -->
+comments: true
 title: "Visual explanation for video recognition"
 ---
 
