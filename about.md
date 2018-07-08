@@ -19,7 +19,7 @@ Xerox Research Centre Europe under the supervision of
 
 #### Updates
 <!-- Here is my [resume]({{site.url}}/assets/res2.pdf). -->
-  * (Mar, 2017) I'll be attending <a href="https://iclr.cc/Conferences/2018">ICLR'18</a> in Vancouver, Canada from April 30 - May 3.
+  * (Mar, 2018) I'll be attending <a href="https://iclr.cc/Conferences/2018">ICLR'18</a> in Vancouver, Canada from April 30 - May 3.
   * (Jul, 2017) I'll be attending <a href="http://iccv2017.thecvf.com">ICCV'17</a> in Venice, Italy from 22-29 Oct.
   * (Jul, 2017) We placed 3rd in the ActivityNet's <a href="https://deepmind.com/research/open-source/open-source-datasets/kinetics/">Kinetics</a> video recognition <a href="http://activity-net.org/challenges/2017/trimmed.html">challenge</a> (hosted by DeepMind), with our approach detailed in <a href="https://medium.com/twentybn/recognizing-human-actions-in-videos-ed729f9399c8" >this blog post</a>.
 Something-Something dataset in a short YouTube video.
