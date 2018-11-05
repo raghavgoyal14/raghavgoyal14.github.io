@@ -48,9 +48,9 @@ Applications of Deep Learning in  Computer Vision (Image and Video captioning, V
 ---
 ## Patents
   * **Natural language generation through character-based recurrent neural networks with finite-state prior knowledge.**<br>
-    Goyal, Raghav, and Marc Dymetman. U.S. Patent Application No. US10049106B2. Granted.
+    Goyal, Raghav, and Marc Dymetman. U.S. Patent Application No. US10049106B2. 2018. Granted.
   * **Methods and systems for transmitting prioritized messages to employees.**
-    Sharma, Avinash, et al. U.S. Patent Application No. US10089605B2. Granted.
+    Sharma, Avinash, et al. U.S. Patent Application No. US10089605B2. 2016. Granted.
 
 ---
 ## Contact
