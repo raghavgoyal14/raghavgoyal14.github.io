@@ -47,11 +47,10 @@ Applications of Deep Learning in  Computer Vision (Image and Video captioning, V
 
 ---
 ## Patents
-  * **Natural Language Generation through Character-based RNNs with Finite-state Prior Knowledge**<br>
-    Raghav Goyal, Marc Dymetman. ID Number.20160644US01. 2016. Accepted by Xerox TAP.
-  * **Methods and systems for transmitting prioritized messages to employees**
-    <br>A Sharma, A Tripathi, K Dasgupta, N Piratla, <u>R Goyal</u> et al.
-    US 20160364690 A1. 2016. Published
+  * **Natural language generation through character-based recurrent neural networks with finite-state prior knowledge.**<br>
+    Goyal, Raghav, and Marc Dymetman. U.S. Patent Application No. US10049106B2. Granted.
+  * **Methods and systems for transmitting prioritized messages to employees.**
+    Sharma, Avinash, et al. U.S. Patent Application No. US10089605B2. Granted.
 
 ---
 ## Contact
