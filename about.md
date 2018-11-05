@@ -19,6 +19,7 @@ Xerox Research Centre Europe under the supervision of
 
 #### Updates
 <!-- Here is my [resume]({{site.url}}/assets/res2.pdf). -->
+  * (Sep, 2018) We placed 3rd in Visual Dialog challenge hosted as a part of <a href="https://sites.google.com/view/sivl/">SIVL</a> workshop at <a href="https://eccv2018.org/">ECCV'18</a>. Rankings can be found <a href="https://visualdialog.org/challenge/2018#winners">here</a>
   * (Mar, 2018) I'll be attending <a href="https://iclr.cc/Conferences/2018">ICLR'18</a> in Vancouver, Canada from April 30 - May 3.
   * (Jul, 2017) I'll be attending <a href="http://iccv2017.thecvf.com">ICCV'17</a> in Venice, Italy from 22-29 Oct.
   * (Jul, 2017) We placed 3rd in the ActivityNet's <a href="https://deepmind.com/research/open-source/open-source-datasets/kinetics/">Kinetics</a> video recognition <a href="http://activity-net.org/challenges/2017/trimmed.html">challenge</a> (hosted by DeepMind), with our approach detailed in <a href="https://medium.com/twentybn/recognizing-human-actions-in-videos-ed729f9399c8" >this blog post</a>.
@@ -54,6 +55,6 @@ Applications of Deep Learning in  Computer Vision (Image and Video captioning, V
 
 ---
 ## Contact
-Address: Nostitzstr. 27, 10965 Berlin, Germany<br/>
+Address: Corinthstr. 40, 10245 Berlin, Germany<br/>
 Email: raghavgoyal14@gmail.com, raghav.goyal@twentybn.com <br/>
 Phone: +49-15773570775
