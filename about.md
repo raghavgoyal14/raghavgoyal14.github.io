@@ -19,6 +19,8 @@ Xerox Research Centre Europe under the supervision of
 
 #### Updates
 <!-- Here is my [resume]({{site.url}}/assets/res2.pdf). -->
+  * (Nov, 2018) Code and pre-trained models for Something-Something version 2 are available 
+  <a href="https://github.com/TwentyBN/smth-smth-v2-baseline-with-models">here</a>
   * (Sep, 2018) We placed 3rd in Visual Dialog challenge hosted as a part of <a href="https://sites.google.com/view/sivl/">SIVL</a> workshop at <a href="https://eccv2018.org/">ECCV'18</a>. Rankings can be found <a href="https://visualdialog.org/challenge/2018#winners">here</a>
   * (Mar, 2018) I'll be attending <a href="https://iclr.cc/Conferences/2018">ICLR'18</a> in Vancouver, Canada from April 30 - May 3.
   * (Jul, 2017) I'll be attending <a href="http://iccv2017.thecvf.com">ICCV'17</a> in Venice, Italy from 22-29 Oct.
