@@ -12,7 +12,7 @@ Deep Learning (DL) movement still heavily relies on statistical learning theory,
 
 <div style="text-align:center">
     <img src ="{{site.url}}/assets/inductive-biases/dexter-judea-pearl.jpg" width="50%" height="50%" />
-    <figcaption>Dr. Judea Pearl - Prof. at UCLA, known proponent of causality theory and author of "Book of Why". </figcaption>
+    <figcaption>Dr. Judea Pearl - Prof. at UCLA, a known proponent of causality theory and author of "Book of Why". </figcaption>
 </div>
 
 <br>
@@ -25,7 +25,9 @@ Most of the Deep Learning (DL) movement is geared towards engineering **_inducti
 <br>
 Since AutoML (or genetic evolution) are not there to help us given our short life span, encoding inductive biases forms an inevitable part of the job of the peeps working in today's ML environment -- which is equally empowering and sad at the same time :|
 
-*C’mon maker of the universe - do your thing!*
+<div style="text-align:center">
+    <img src ="{{site.url}}/assets/inductive-biases/man-god-1.png" />
+</div>
 
 While reading papers and keeping myself up-to-date with the recent advancements in DL, I usually come across different forms of “tricks” encoded in architecture, objective function, optimization algorithm - that just works and sometimes **_is_** the answer to research becoming successful.
 
@@ -40,12 +42,17 @@ I come from a Computer Vision background and will summarise some of the biases t
 
 ### Ideas
 
-- CNN: boring! *someone trying to explain CNN to me. C’mon it’s 2019 not 2012!*
+- CNN:
+
+<div style="text-align:center">
+    <img src ="{{site.url}}/assets/inductive-biases/cnn-1.png" />
+</div>
+
 - My own experience regarding temporal footprint in video classification architectures!
 - Graph Neural Networks - relational nets, attention nets, 
 - FiLM
 - VAE reparameterization trick, GANs loss manifold
-- World model - multiple modes Gaussian for Future
+- World models - multiple modes Gaussian for Future
 - Dialog - Memory Nets?
 - Object detection - anchor boxes 
 - Uber's CoordConv
