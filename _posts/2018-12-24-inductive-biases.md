@@ -8,15 +8,22 @@ published: false
 
 ## Note: This is still work in progress!
 
-Deep Learning (DL) movement still heavily relies on statistical learning theory, which uses the principle of Empirical Risk Minimization (in layman terms - opt for a model that better fits the data), and as a consequence we have powerful pattern recognizers!
+Deep Learning (DL) movement still heavily relies on statistical learning theory, which uses the principle of [Empirical Risk Minimization](https://en.wikipedia.org/wiki/Empirical_risk_minimization) with Maximimum Likelihood as an objective (in layman terms - opt for a model that better fits the data), and as a consequence we have powerful pattern recognizers!
+
+https://sites.google.com/view/nips2018causallearning/home
 
 <div style="text-align:center">
     <img src ="{{site.url}}/assets/inductive-biases/dexter-judea-pearl.jpg" width="50%" height="50%" />
-    <figcaption>Dr. Judea Pearl - Prof. at UCLA, a known proponent of causality theory and author of "Book of Why". </figcaption>
+    <figcaption>Dr. Judea Pearl - Prof. at UCLA, a known advocate of Causality theory and author of "The Book of Why". </figcaption>
 </div>
 
 <br>
 Most of the Deep Learning (DL) movement is geared towards engineering **_inductive biases_** that capture statistical structure present in data to get better towards the objective.
+
+**_What are inductive biases?_**
+
+An inductive bias allows a learning algorithm to prioritize one solution (or interpretation) over another, independent of the observed data [1]
+
 
 <div style="text-align:center">
     <img src ="{{site.url}}/assets/inductive-biases/inductive-bias-1.png" />
@@ -56,11 +63,12 @@ I come from a Computer Vision background and will summarise some of the biases t
 - Dialog - Memory Nets?
 - Object detection - anchor boxes 
 - Uber's CoordConv
+- Interpretable Intuitive Physics Model trick to get Physics vector?
 
 - Data engineering:
   - Balancing in VQA?
 
 ## References
-[1] ...
+[1] Battaglia, Peter W., et al. "Relational inductive biases, deep learning, and graph networks." arXiv preprint arXiv:1806.01261 (2018).
 
 {% include disqus.html %}
