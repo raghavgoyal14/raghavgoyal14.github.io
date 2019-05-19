@@ -16,7 +16,7 @@
 title: Raghav Goyal
 email: raghavgoyal14@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Collection of some (un)finished stuff 
+  Archival collection of thoughts to refer back to and public consumption
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://raghavgoyal14.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: raghavgoyal14
