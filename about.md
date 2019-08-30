@@ -60,5 +60,5 @@ Applications of Deep Learning in  Computer Vision (Image and Video captioning, V
 
 ---
 ## Contact
-Address: Corinthstr. 40, 10245 Berlin, Germany<br/>
-Email: raghavgoyal14@gmail.com, raghav.goyal@twentybn.com <br/>
+Address: Room 201, 2366 Main Mall, Vancouver, BC, V6T 1Z4<br/>
+Email: rgoyal14 at cs.ubc.ca <br/>
