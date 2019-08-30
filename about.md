@@ -12,13 +12,17 @@ permalink: /about/
     >
 </center>
 <br/>
-I'm an AI Engineer at [Twenty Billion Neurons GmbH](http://www.20bn.com), a German-Canadian startup, working with [Dr. Roland Memisevic](http://www.iro.umontreal.ca/~memisevr/). Prior to this I did a research internship at 
-Xerox Research Centre Europe under the supervision of
-[Dr. Marc Dymetman](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Marc-Dymetman) and [Prof. Eric Gaussier](http://ama.liglab.fr/~gaussier/). I obtained an Integrated M.Tech. 
-(5-year programme) from [IIT Delhi](http://www.iitd.ac.in/) with a major in Mathematics and Computing.
+I'm a PhD candidate in Machine Learning at [The University of British Columbia] (https://www.cs.ubc.ca) under the supervision of [Prof. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/). My research is supported by [UBC's Four Year Doctoral Fellowship (4YF) Program](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) and [Vector Institute](https://vectorinstitute.ai).
+
+Before that I spent roughly three years at [Twenty Billion Neurons GmbH](http://www.20bn.com) in Berlin, Germany; working in video understanding under the supervision of [Dr. Roland Memisevic](http://www.iro.umontreal.ca/~memisevr/). 
+
+Going back further, I interned for 5 months at Xerox Research Centre Europe (now Naver Labs) in Grenoble, France; working in Natural Language Generation with [Dr. Marc Dymetman](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Marc-Dymetman).
+
+I obtained an Integrated M.Tech. (5-year programme) from [IIT Delhi](http://www.iitd.ac.in/) with Mathematics and Computing as my major.
 
 #### Updates
 <!-- Here is my [resume]({{site.url}}/assets/res2.pdf). -->
+  * (Sep, 2019) Joined [UBC's Vision Lab] (https://vision.cs.ubc.ca/team/) as a PhD student
   * (Nov, 2018) Code and pre-trained models for Something-Something version 2 are available 
   <a href="https://github.com/TwentyBN/smth-smth-v2-baseline-with-models">here</a>
   * (Sep, 2018) We placed 3rd in Visual Dialog challenge hosted as a part of <a href="https://sites.google.com/view/sivl/">SIVL</a> workshop at <a href="https://eccv2018.org/">ECCV'18</a>. Rankings can be found <a href="https://visualdialog.org/challenge/2018#winners">here</a>
