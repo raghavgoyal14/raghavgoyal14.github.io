@@ -12,7 +12,7 @@ permalink: /about/
     >
 </center>
 <br/>
-I'm a PhD candidate in Machine Learning at [The University of British Columbia](https://www.cs.ubc.ca) under the supervision of [Prof. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/). My research is supported by [UBC's Four Year Doctoral Fellowship (4YF) Program](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) and [Vector Institute](https://vectorinstitute.ai).
+I'm a PhD candidate in Machine Learning at [The University of British Columbia](https://www.cs.ubc.ca) under the supervision of [Prof. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/). My research is supported by [UBC's Four Year Doctoral Fellowship (4YF)](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf) and [Vector Institute](https://vectorinstitute.ai).
 
 Before that I spent roughly three years at [Twenty Billion Neurons GmbH](http://www.20bn.com) in Berlin, Germany; working in video understanding under the supervision of [Dr. Roland Memisevic](http://www.iro.umontreal.ca/~memisevr/). 
 
