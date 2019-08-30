@@ -22,7 +22,7 @@ I obtained an Integrated M.Tech. (5-year programme) from [IIT Delhi](http://www.
 
 #### Updates
 <!-- Here is my [resume]({{site.url}}/assets/res2.pdf). -->
-  * (Sep, 2019) Joined [UBC's Vision Lab] (https://vision.cs.ubc.ca/team/) as a PhD student
+  * (Sep, 2019) Joined [UBC's Vision Lab](https://vision.cs.ubc.ca/team/) as a PhD student
   * (Nov, 2018) Code and pre-trained models for Something-Something version 2 are available 
   <a href="https://github.com/TwentyBN/smth-smth-v2-baseline-with-models">here</a>
   * (Sep, 2018) We placed 3rd in Visual Dialog challenge hosted as a part of <a href="https://sites.google.com/view/sivl/">SIVL</a> workshop at <a href="https://eccv2018.org/">ECCV'18</a>. Rankings can be found <a href="https://visualdialog.org/challenge/2018#winners">here</a>
