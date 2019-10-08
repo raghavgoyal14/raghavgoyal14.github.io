@@ -18,7 +18,7 @@ Before that I spent roughly three years at [Twenty Billion Neurons GmbH](http://
 
 Going back further, I interned for 5 months at Xerox Research Centre Europe (now Naver Labs) in Grenoble, France; working in Natural Language Generation with [Dr. Marc Dymetman](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Marc-Dymetman).
 
-I obtained an Integrated M.Tech. (5-year programme) from [IIT Delhi](http://www.iitd.ac.in/) with Mathematics and Computing as my major.
+I obtained Integrated M.Tech. (5-year programme) from [IIT Delhi](http://www.iitd.ac.in/) with Mathematics and Computing as my major.
 
 #### Updates
 <!-- Here is my [resume]({{site.url}}/assets/res2.pdf). -->
