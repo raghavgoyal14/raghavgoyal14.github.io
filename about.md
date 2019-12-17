@@ -42,6 +42,7 @@ Applications of Deep Learning in  Computer Vision (Image and Video captioning, V
   * **Improved Few-Shot Visual Classification**<br>
     _Peyman Bateni, <u>Raghav Goyal</u>, Vaden Masrani, Frank Wood, Leonid Sigal_
     <br>arXiv preprint arXiv:1912.03432 (2019). ([pdf](https://arxiv.org/pdf/1912.03432.pdf))
+
 ---
 ## Refereed Publications
 
