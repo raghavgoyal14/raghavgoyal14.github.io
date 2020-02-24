@@ -34,15 +34,11 @@ I obtained Integrated M.Tech. (5-year programme) from [IIT Delhi](http://www.iit
 Applications of Deep Learning in  Computer Vision (Image and Video captioning, VQA), Natural Language Processing (Machine Translation, Natural Language Generation)
 
 ---
-## Preprints
+## Refereed Publications
 
   * **Improved Few-Shot Visual Classification**<br>
     _Peyman Bateni, <u>Raghav Goyal</u>, Vaden Masrani, Frank Wood, Leonid Sigal_
-    <br>arXiv preprint arXiv:1912.03432 (2019). ([pdf](https://arxiv.org/pdf/1912.03432.pdf))
-
----
-## Refereed Publications
-
+    <br>To appear in CVPR 2020. Seattle, USA. June 2020. ([pdf](https://arxiv.org/pdf/1912.03432.pdf))
   * **Evaluating visual "common sense" using fine-grained classification and captioning tasks**<br>
     _<u>Raghav Goyal</u>, Farzaneh Mahdisoltani, Guillaume Berger, Waseem Gharbieh, Ingo Bax, Roland Memisevic._
     <br>In ICLR Workshop. Vancouver, Canada. May 2018. [Acceptance Rate: 57%]  ([pdf](https://openreview.net/pdf?id=rkX9Z_kwf))
