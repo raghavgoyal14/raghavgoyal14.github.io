@@ -38,7 +38,7 @@ Applications of Deep Learning in  Computer Vision (Image and Video captioning, V
 
   * **Improved Few-Shot Visual Classification**<br>
     _Peyman Bateni, <u>Raghav Goyal</u>, Vaden Masrani, Frank Wood, Leonid Sigal_
-    <br>To appear in CVPR. Seattle, USA. June 2020. ([pdf](https://arxiv.org/pdf/1912.03432.pdf))
+    <br>In CVPR. Seattle, USA. June 2020. ([pdf](http://openaccess.thecvf.com/content_CVPR_2020/papers/Bateni_Improved_Few-Shot_Visual_Classification_CVPR_2020_paper.pdf))
   * **Evaluating visual "common sense" using fine-grained classification and captioning tasks**<br>
     _<u>Raghav Goyal</u>, Farzaneh Mahdisoltani, Guillaume Berger, Waseem Gharbieh, Ingo Bax, Roland Memisevic._
     <br>In ICLR Workshop. Vancouver, Canada. May 2018. [Acceptance Rate: 57%]  ([pdf](https://openreview.net/pdf?id=rkX9Z_kwf))
