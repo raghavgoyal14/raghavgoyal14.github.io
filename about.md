@@ -34,6 +34,13 @@ I obtained Integrated M.Tech. (5-year programme) from [IIT Delhi](http://www.iit
 Applications of Deep Learning in  Computer Vision (Image and Video captioning, VQA), Natural Language Processing (Machine Translation, Natural Language Generation)
 
 ---
+## Preprint(s)
+  * **Weakly-supervised Any-shot Object Detection**<br>
+    _Siddhesh Khandelwal*, <u>Raghav Goyal*</u>, Leonid Sigal_
+    <br>arXiv:2006:07502. ([pdf](https://arxiv.org/pdf/2006.07502.pdf))
+    <br> \* _equal contribution_
+
+---
 ## Refereed Publications
 
   * **Improved Few-Shot Visual Classification**<br>
