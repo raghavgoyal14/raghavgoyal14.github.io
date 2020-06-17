@@ -14,22 +14,14 @@ permalink: /about/
 <br/>
 I'm a PhD student in Machine Learning at the [University of British Columbia](https://www.cs.ubc.ca) and [Vector Institute](https://vectorinstitute.ai) advised by [Prof. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/). My research is supported by [UBC's Four Year Doctoral Fellowship (4YF)](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf).
 
-Before that I spent roughly three years at [Twenty Billion Neurons GmbH](http://www.20bn.com) in Berlin, Germany; working on video understanding under the supervision of [Roland Memisevic, PhD](http://www.iro.umontreal.ca/~memisevr/). 
+Before that I spent three years at [Twenty Billion Neurons GmbH](http://www.20bn.com) in Berlin, Germany; working on video understanding under the supervision of [Roland Memisevic, PhD](http://www.iro.umontreal.ca/~memisevr/). 
 
 Going back further, I interned for 5 months at Xerox Research Centre Europe (now Naver Labs) in Grenoble, France; working in Natural Language Generation with [Dr. Marc Dymetman](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Marc-Dymetman).
 
 I obtained Integrated M.Tech. (5-year programme) from [IIT Delhi](http://www.iitd.ac.in/) with Mathematics and Computing as my major.
 
-#### Updates
-  * (Sep, 2019) Joined [UBC's Vision Lab](https://vision.cs.ubc.ca/team/) as a PhD student
-  * (Sep, 2018) Placed 3rd in Visual Dialog challenge hosted as a part of <a href="https://sites.google.com/view/sivl/">SIVL</a> workshop at <a href="https://eccv2018.org/">ECCV'18</a>. Rankings can be found <a href="https://visualdialog.org/challenge/2018#winners">here</a>
-  * (Mar, 2018) I'll be attending <a href="https://iclr.cc/Conferences/2018">ICLR'18</a> in Vancouver, Canada from April 30 - May 3.
-  * (Jul, 2017) I'll be attending <a href="http://iccv2017.thecvf.com">ICCV'17</a> in Venice, Italy from 22-29 Oct.
-  * (Jul, 2017) Placed 3rd in the ActivityNet's <a href="https://deepmind.com/research/open-source/open-source-datasets/kinetics/">Kinetics</a> video recognition <a href="http://activity-net.org/challenges/2017/trimmed.html">challenge</a> (hosted by DeepMind), with our approach detailed in <a href="https://medium.com/twentybn/recognizing-human-actions-in-videos-ed729f9399c8" >this blog post</a>.
-
 ---
 ---
-
 ## Research Interests
 Applications of Deep Learning in  Computer Vision (Image and Video captioning, VQA), Natural Language Processing (Machine Translation, Natural Language Generation)
 
@@ -59,11 +51,19 @@ Applications of Deep Learning in  Computer Vision (Image and Video captioning, V
     Linguistics (COLING). Osaka, Japan. December 2016. [Acceptance Rate: 32%]  ([pdf](https://www.aclweb.org/anthology/C/C16/C16-1103.pdf))
 
 ---
+## Challenges
+  * (Sep, 2018) Placed 3rd in Visual Dialog challenge hosted as a part of <a href="https://sites.google.com/view/sivl/">SIVL</a> workshop at <a href="https://eccv2018.org/">ECCV'18</a>. Rankings can be found <a href="https://visualdialog.org/challenge/2018#winners">here</a>
+  * (Jul, 2017) Placed 3rd in the ActivityNet's <a href="https://deepmind.com/research/open-source/open-source-datasets/kinetics/">Kinetics</a> video recognition <a href="http://activity-net.org/challenges/2017/trimmed.html">challenge</a> (hosted by DeepMind), with our approach detailed in <a href="https://medium.com/twentybn/recognizing-human-actions-in-videos-ed729f9399c8" >this blog post</a>.
+
+
+<!---
+---
 ## Patents
   * **Natural language generation through character-based recurrent neural networks with finite-state prior knowledge.**<br>
     Goyal, Raghav, and Marc Dymetman. U.S. Patent Application No. US10049106B2. 2018. Granted.
   * **Methods and systems for transmitting prioritized messages to employees.**<br>
     Sharma, Avinash, et al. U.S. Patent Application No. US10089605B2. 2016. Granted.
+--->
 
 ---
 ## Contact
