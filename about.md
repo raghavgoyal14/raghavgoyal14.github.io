@@ -22,18 +22,18 @@ I obtained Integrated M.Tech. (5-year programme) from [IIT Delhi](http://www.iit
 
 ---
 ---
-## Research Interests
+### Research Interests
 Applications of Deep Learning in  Computer Vision (Image and Video captioning, VQA), Natural Language Processing (Machine Translation, Natural Language Generation)
 
 ---
-## Preprint(s)
+### Preprint(s)
   * **Weakly-supervised Any-shot Object Detection**<br>
     _Siddhesh Khandelwal*, <u>Raghav Goyal*</u>, Leonid Sigal_
     <br>arXiv:2006:07502. ([pdf](https://arxiv.org/pdf/2006.07502.pdf))
     <br> \* _equal contribution_
 
 ---
-## Refereed Publications
+### Refereed Publications
 
   * **Improved Few-Shot Visual Classification**<br>
     _Peyman Bateni, <u>Raghav Goyal</u>, Vaden Masrani, Frank Wood, Leonid Sigal_
@@ -51,8 +51,8 @@ Applications of Deep Learning in  Computer Vision (Image and Video captioning, V
     Linguistics (COLING). Osaka, Japan. December 2016. [Acceptance Rate: 32%]  ([pdf](https://www.aclweb.org/anthology/C/C16/C16-1103.pdf))
 
 ---
-## Challenges
-  * (Sep, 2018) Placed 3rd in Visual Dialog challenge hosted as a part of <a href="https://sites.google.com/view/sivl/">SIVL</a> workshop at <a href="https://eccv2018.org/">ECCV'18</a>. Rankings can be found <a href="https://visualdialog.org/challenge/2018#winners">here</a>
+### Challenges
+  * (Sep, 2018) Placed 3rd in Visual Dialog challenge hosted as a part of <a href="https://sites.google.com/view/sivl/">SIVL</a> workshop at <a href="https://eccv2018.org/">ECCV'18</a>. Rankings can be found <a href="https://visualdialog.org/challenge/2018#winners">here</a>.
   * (Jul, 2017) Placed 3rd in the ActivityNet's <a href="https://deepmind.com/research/open-source/open-source-datasets/kinetics/">Kinetics</a> video recognition <a href="http://activity-net.org/challenges/2017/trimmed.html">challenge</a> (hosted by DeepMind), with our approach detailed in <a href="https://medium.com/twentybn/recognizing-human-actions-in-videos-ed729f9399c8" >this blog post</a>.
 
 
@@ -66,6 +66,6 @@ Applications of Deep Learning in  Computer Vision (Image and Video captioning, V
 --->
 
 ---
-## Contact
+### Contact
 Address: Room 201, 2366 Main Mall, Vancouver, BC, V6T 1Z4<br/>
 Email: rgoyal14 at cs.ubc.ca <br/>
