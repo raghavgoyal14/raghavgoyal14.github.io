@@ -23,7 +23,7 @@ I obtained Integrated M.Tech. (5-year programme) from [IIT Delhi](http://www.iit
 ---
 ---
 ### Research Interests
-Applications of Deep Learning in  Computer Vision (Image and Video captioning, VQA), Natural Language Processing (Machine Translation, Natural Language Generation)
+Efficient (few-, weak-, self-) learning paradigms, Video understanding.
 
 ---
 ### Preprint(s)
