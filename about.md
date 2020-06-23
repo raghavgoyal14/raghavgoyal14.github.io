@@ -14,9 +14,7 @@ permalink: /about/
 <br/>
 I'm a PhD student in Machine Learning at the [University of British Columbia](https://www.cs.ubc.ca) and [Vector Institute](https://vectorinstitute.ai) advised by [Prof. Leonid Sigal](https://www.cs.ubc.ca/~lsigal/). My research is supported by [UBC's Four Year Doctoral Fellowship (4YF)](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf).
 
-Before that I spent three years at [Twenty Billion Neurons GmbH](http://www.20bn.com) in Berlin, Germany; working on video understanding under the supervision of [Roland Memisevic, PhD](http://www.iro.umontreal.ca/~memisevr/). 
-
-Going back further, I interned for 5 months at Xerox Research Centre Europe (now Naver Labs) in Grenoble, France; working in Natural Language Generation with [Dr. Marc Dymetman](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Marc-Dymetman).
+Prior to this I've spent three years at [Twenty Billion Neurons GmbH](http://www.20bn.com) in Berlin, Germany; working on video understanding under the supervision of [Roland Memisevic, PhD](http://www.iro.umontreal.ca/~memisevr/). I also worked as an intern for five months at Xerox Research Centre Europe (now Naver Labs) in Grenoble, France; working in Natural Language Generation with [Dr. Marc Dymetman](http://www.europe.naverlabs.com/NAVER-LABS-Europe/People/Marc-Dymetman).
 
 I obtained Integrated M.Tech. (5-year programme) from [IIT Delhi](http://www.iitd.ac.in/) with Mathematics and Computing as my major.
 
