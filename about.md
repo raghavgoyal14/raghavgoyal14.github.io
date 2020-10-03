@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Please refer to my [UBC's web page](https://www.cs.ubc.ca/~rgoyal14/)
+Please refer to [https://www.cs.ubc.ca/~rgoyal14/](https://www.cs.ubc.ca/~rgoyal14/)
