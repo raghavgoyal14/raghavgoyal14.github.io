@@ -4,6 +4,12 @@ title: Research
 permalink: /research/
 ---
 
+## PhD Thesis
+
+I defended my PhD thesis titled **"Data-Efficient Learning On Structured Output Data"** (Nov 19, 2024), and I started at [Samsung AI Toronto](https://sait.samsung.com/). [[defense slides]]({{ site.baseurl }}/assets/phd_defense_slides.pdf)
+
+---
+
 ## Publications
 
 ![Hallucination Score]({{ site.baseurl }}/assets/publications/hallucination_score.png)

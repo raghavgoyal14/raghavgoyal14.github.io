@@ -23,5 +23,3 @@ Prior to this I spent three years at Twenty Billion Neurons GmbH (20bn) in Berli
 
 I obtained Integrated M.Tech. (5-year programme) from IIT Delhi with Mathematics and Computing as my major.
 
-*I defended my PhD thesis titled "Data-Efficient Learning On Structured Output Data", and I started at Samsung AI Toronto*
-
